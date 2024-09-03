@@ -1,0 +1,14 @@
+train: E:/Projects_working/Yolov8_object_detection/fine_tuning_Data/images
+val: E:/Projects_working/Yolov8_object_detection/fine_tuning_Data/images
+
+# test: ../test/images
+
+nc: 2
+names: ['Fish', 'color wala']
+
+# roboflow:
+#   workspace: zain-zia-k1b4b
+#   project: fish-detection-shxbf
+#   version: 2
+#   license: CC BY 4.0
+#   url: https://universe.roboflow.com/zain-zia-k1b4b/fish-detection-shxbf/dataset/2
