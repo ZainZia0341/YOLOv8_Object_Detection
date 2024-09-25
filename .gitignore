@@ -4,4 +4,7 @@ model
 
 yolov_ENV_3.9.0
 
+output
+
+fine_tuning_Data
 

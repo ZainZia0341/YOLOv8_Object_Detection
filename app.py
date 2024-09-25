@@ -6,7 +6,7 @@ import json
 # model = YOLO("E:\\Projects_working\\Yolov8_object_detection\\model\\yolov8x.pt")
 
 # Load the Custom fine tunned model
-model = YOLO("E:\\Projects_working\\Yolov8_object_detection\\model\\yolov8_custom_detection\\weights\\best.pt")
+model = YOLO("E:\\Projects_working\\Yolov8_object_detection\\model\\yolov8x.pt")  # yolov8_custom_detection\\weights\\best.pt
 
 
 
